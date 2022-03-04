@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XiaoMiku01" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=aliumou" />
 </a>  
 
 ![:name](https://count.getloli.com/get/@:XiaoMiku01)  
@@ -9,7 +9,6 @@
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)  
   
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://code.visualstudio.com/)  
 
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
